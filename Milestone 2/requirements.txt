@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+numpy
+pillow
+pytesseract
+pdf2image
+pandas
+matplotlib
+requests
+python-dotenv
+google-auth
+google-generativeai
